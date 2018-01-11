@@ -1,1 +1,33 @@
-# LogisticR
+BUSINESS CONTEXT:
+Human Resources are critical resources of any organization. Organizations
+spend huge amount of time and money to hire and nurture their employees. It
+is a huge loss for companies if employees leave, especially the key resources.
+So if HR can predict weather employees are at risk for leaving the company, it
+will allow them to identify the attrition risks and help understand and provide
+necessary support to retain those employees or do preventive hiring to
+minimize the impact to the organization.
+Predictive retention modeling allows organizations to identify high-risk
+employees, build profiles of those most likely to leave or stay, and understand
+how risk is distributed throughout the organization. Several innovative large
+organizations have started building these kind of HR analytics with great
+success in the past years e.g. Google, HP.
+
+Benifits from Predictive Modeling in HR:
+
+1. Recognize the strengths and vulnerabilities of the workforce and predict
+vacancies and leadership needs.
+2. Track and analyze critical skills, and predict which skills will be lost and when
+by predicting turnover.
+3. Measure turnover, understand its causes and design programs to control it
+to reduce vacancy costs – both financial and productivity – to avoid their
+devastating effects on business performance.
+4. Assess risk on an organization-wide level by integrating workforce and
+relevant business and third-party data for comprehensive risk analysis.
+5. Build weighted risk factors into strategic human capital management plans
+and reduce risk by understanding workforce supply-and-demand patterns.
+6. Understand and mitigate risk linked to seasonal absences, resignation trends
+or length of employment to prevent being blindsided by loss of critical
+workers, skills or leadership.
+7. Measure, monitor and predict the effect of risk factors over time and
+prevent organizational risk by devising contingency plans based on insight and
+foresight.
